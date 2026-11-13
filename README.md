@@ -1,8 +1,8 @@
 ## yo
 
- I'm passmedaoxy, and I'm the sad human who's working on [**Optimizer**](https://github.com/passmedaoxy/optimizer). it's a free app that makes your games run better and puts your PC back to normal when you're done. no premium, no paywall, no sketchy stuff.
+ I'm passmedaoxy, and I'm the sad human who's working on [**Optimizer**](https://github.com/passmedaoxy/optimizer). it's a free app that basically makes your games run better if used right.
 
--  currently working on: **[Optimizer](https://github.com/passmedaoxy/optimizer)** (new updates on the first of each month)
+-  currently working on: **[Optimizer](https://github.com/passmedaoxy/optimizer)** | (new updates on the first of each month)
 -  currently learning: how deep the windows rabbit hole goes lol
 -  down to collaborate on: Optimizer. it's open source, so fork it, break it, make it better
 -  need help with: people testing it on all kinds of pcs. amd, intel, laptops, potatoes, whatever you've got
